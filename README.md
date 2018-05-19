@@ -27,3 +27,5 @@
 ## slide saved
 * https://github.com/lovesec/2017-Security-ppt
 
+## 中文資源
+https://github.com/hardenedlinux/linux-exploit-development-tutorial
