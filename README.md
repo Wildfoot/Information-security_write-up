@@ -19,6 +19,13 @@
 ## Tools
 * https://github.com/GDSSecurity/Cexigua
 
+## misc
+### about ptrace
+* https://github.com/yellowbyte/analysis-of-anti-analysis/blob/master/research/hiding_call_to_ptrace/hiding_call_to_ptrace.md
+
+## CVEs
+* https://github.com/f0rb1dd3n/papers/blob/master/MTS17-RJ-PPT-v2.pdf
+
 ## Authors
 * https://github.com/emptymonkey
 * https://www.exploit-db.com/author/?a=7334
@@ -29,3 +36,4 @@
 
 ## 中文資源
 * https://github.com/hardenedlinux/linux-exploit-development-tutorial
+* https://github.com/redBu1l/pentest_book
